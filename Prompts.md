@@ -27,3 +27,4 @@
 
 21. Give me SVG implementation codes for some social media websites?
 22. What is Base MVP?
+23. Explain "..." this error.
