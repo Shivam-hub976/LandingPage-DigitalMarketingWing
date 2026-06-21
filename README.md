@@ -1,6 +1,6 @@
 # Prodesk IT | Sprint 1: The Corporate Brand
 
-**Live Deployment:** [Insert Live URL Here, e.g., https://prodesk-it-sprint1.vercel.app]
+**Live Deployment:** (https://prodeskitdmw.netlify.app/)
 
 ## Project Overview
 
